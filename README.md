@@ -1,6 +1,6 @@
 # sidanclaw-kb-template
 
-A starter repository for a [sidanclaw](https://ai.sidan.io) team knowledge base.
+A starter repository for a [sidanclaw](https://sidan.ai) team knowledge base.
 
 ## What this is
 
