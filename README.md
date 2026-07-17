@@ -10,7 +10,7 @@ This template ships an opinionated skeleton: a root index, a sensitivity-tier gl
 
 ## Get started
 
-1. Click **Use this template** → **Create a new repository** (or `gh repo create my-team-kb --template sidanclaw/sidanclaw-kb-template --public` / `--private`).
+1. Click **Use this template** → **Create a new repository** (or `gh repo create my-team-kb --template use-brian/brian-kb-template --public` / `--private`).
 2. Edit `meta/sensitivity.md` to encode your team's tier policy.
 3. Edit `meta/tags.md` to set your canonical tag vocabulary.
 4. Edit `index.md` to introduce your KB.
